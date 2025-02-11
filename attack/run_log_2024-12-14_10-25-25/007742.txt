@@ -1,0 +1,302 @@
+init_pop_size: 15	 pop_size: 20	 elite_size: 5 
+mutation_p: 0.85	 max_iters: 50
+target phrase: a person waves a friendly hello.
+ori phrase:It involves two individuals interacting with objects in the world around us as well interacting physically.
+------------- iteration:1 ---------------
+82.24968719482422 It includes two actors interacting with objects in the habitat around us as well as interacting physically.
+82.68159484863281 It entails two agents interacting with components in the context around us as well as interacting physically.
+83.13224792480469 It involves two individuals interacting with objects in the world around us as well interacting physically.
+83.92830657958984 It involves two players interacting with possessions in the setting around us as well as interacting physically.
+84.76467895507812 It features two individuals handling things in the vicinity around us as well as handling physically.
+new best adv: 84.76467895507812 It features two individuals handling things in the vicinity around us as well as handling physically.
+------------- iteration:2 ---------------
+82.97476196289062 Two people engage with items and belongings within our environment and surroundings, also physically connecting with each other.
+83.10557556152344 Two people engage with items and belongings within our environment and surroundings, also physically connecting.
+83.10557556152344 Two people engage with items and belongings within our environment and surroundings, also physically connecting.
+83.16505432128906 Two people engage with items and belongings within our surroundings, also physically connecting with each other.
+83.16505432128906 Two people engage with items and belongings within our surroundings, also physically connecting with each other.
+------------- iteration:3 ---------------
+80.63438415527344 Individuals interact with objects and personal possessions in their vicinity while also establishing a physical bond.
+82.02880859375 Individuals interact with objects and personal possessions in the vicinity, additionally establishing a physical bond.
+82.35824584960938 Individuals interact with objects and personal possessions in the vicinity, while also establishing a physical bond.
+83.70341491699219 Within our surroundings, various objects and personal possessions are interacted with by a duo, who also establish a physical bond.
+83.70341491699219 Within our surroundings, various objects and personal possessions are interacted with by a duo, who also establish a physical bond.
+------------- iteration:4 ---------------
+81.95664978027344 Objects and personal belongings in the area are engaged with by those around us, concurrently forming a tangible connection.
+------------- iteration:5 ---------------
+80.02788543701172 Surrounding individuals interact with items and personal effects, simultaneously forging a palpable bond.
+80.26432800292969 People actively interact with nearby items and personal possessions, simultaneously crafting a palpable bond.
+83.90097045898438 Individuals interact with nearby items and personal possessions, simultaneously establishing a palpable bond.
+------------- iteration:6 ---------------
+81.78815460205078 Objects and personal belongings are engaged with by those in proximity, concurrently establishing a palpable bond.
+82.28863525390625 Objects in close proximity are engaged with by people, concurrently establishing a palpable bond with their personal belongings.
+84.75393676757812 Objects in proximity are engaged with by people, concurrently establishing a palpable bond with their belongings.
+84.75393676757812 Objects in proximity are engaged with by people, concurrently establishing a palpable bond with their belongings.
+84.75393676757812 Objects in proximity are engaged with by people, concurrently establishing a palpable bond with their belongings.
+------------- iteration:7 ---------------
+82.05033874511719 People concurrently interact with nearby items, fostering an evident connection to their possessions.
+82.05033874511719 People concurrently interact with nearby items, fostering an evident connection to their possessions.
+84.82501983642578 People concurrently interact with nearby items, forging a tangible connection to their possessions.
+new best adv: 84.82501983642578 People concurrently interact with nearby items, forging a tangible connection to their possessions.
+------------- iteration:8 ---------------
+85.56124877929688 Items in close proximity are simultaneously engaged by individuals, establishing a palpable bond with their belongings.
+85.56124877929688 Items in close proximity are simultaneously engaged by individuals, establishing a palpable bond with their belongings.
+85.56124877929688 Items in close proximity are simultaneously engaged by individuals, establishing a palpable bond with their belongings.
+85.56124877929688 Items in close proximity are simultaneously engaged by individuals, establishing a palpable bond with their belongings.
+85.56124877929688 Items in close proximity are simultaneously engaged by individuals, establishing a palpable bond with their belongings.
+new best adv: 85.56124877929688 Items in close proximity are simultaneously engaged by individuals, establishing a palpable bond with their belongings.
+------------- iteration:9 ---------------
+80.10375213623047 Individuals concurrently interact with nearby objects, establishing a tangible connection to their possessions.
+83.82246398925781 Belongings are concurrently handled by people nearby, fostering an evident connection to their items.
+84.00699615478516 Individuals concurrently interact with nearby objects, forging a tangible connection to their possessions.
+84.00699615478516 Individuals concurrently interact with nearby objects, forging a tangible connection to their possessions.
+84.00699615478516 Individuals concurrently interact with nearby objects, forging a tangible connection to their possessions.
+------------- iteration:10 ---------------
+83.66050720214844 Items are simultaneously managed by those in proximity, cultivating a palpable bond with their possessions.
+83.66050720214844 Items are simultaneously managed by those in proximity, cultivating a palpable bond with their possessions.
+83.66050720214844 Items are simultaneously managed by those in proximity, cultivating a palpable bond with their possessions.
+83.66050720214844 Items are simultaneously managed by those in proximity, cultivating a palpable bond with their possessions.
+83.66050720214844 Items are simultaneously managed by those in proximity, cultivating a palpable bond with their possessions.
+------------- iteration:11 ---------------
+83.78121948242188 Belongings are simultaneously overseen by adjacent individuals, cultivating a palpable bond with their possessions.
+83.78121948242188 Belongings are simultaneously overseen by adjacent individuals, cultivating a palpable bond with their possessions.
+86.0348892211914 Belongings are simultaneously handled by adjacent individuals, cultivating a palpable bond with their items.
+86.80713653564453 Belongings experience simultaneous oversight from adjacent individuals, cultivating a palpable bond with their items.
+86.80713653564453 Belongings experience simultaneous oversight from adjacent individuals, cultivating a palpable bond with their items.
+new best adv: 86.80713653564453 Belongings experience simultaneous oversight from adjacent individuals, cultivating a palpable bond with their items.
+------------- iteration:12 ---------------
+87.55925750732422 Items are concurrently managed and supervised by neighboring people, fostering a tangible connection to their possessions.
+87.55925750732422 Items are concurrently managed and supervised by neighboring people, fostering a tangible connection to their possessions.
+87.55925750732422 Items are concurrently managed and supervised by neighboring people, fostering a tangible connection to their possessions.
+87.55925750732422 Items are concurrently managed and supervised by neighboring people, fostering a tangible connection to their possessions.
+87.55925750732422 Items are concurrently managed and supervised by neighboring people, fostering a tangible connection to their possessions.
+new best adv: 87.55925750732422 Items are concurrently managed and supervised by neighboring people, fostering a tangible connection to their possessions.
+------------- iteration:13 ---------------
+82.19573974609375 Neighboring individuals collectively oversee and handle items, nurturing an palpable bond with their belongings.
+84.35380554199219 Simultaneously, neighboring individuals oversee and handle items, nurturing a palpable bond with their belongings.
+86.42301940917969 Neighboring individuals collectively oversee and handle items, cultivating a palpable bond with their belongings.
+88.31788635253906 Simultaneously, neighboring individuals oversee and handle items, cultivating a palpable bond with their belongings.
+88.31788635253906 Simultaneously, neighboring individuals oversee and handle items, cultivating a palpable bond with their belongings.
+new best adv: 88.31788635253906 Simultaneously, neighboring individuals oversee and handle items, cultivating a palpable bond with their belongings.
+------------- iteration:14 ---------------
+81.6624984741211 Concurrently, adjacent persons manage and manipulate objects, cultivating a palpable bond with their belongings.
+81.6624984741211 Concurrently, adjacent persons manage and manipulate objects, cultivating a palpable bond with their belongings.
+81.6624984741211 Concurrently, adjacent persons manage and manipulate objects, cultivating a palpable bond with their belongings.
+81.6624984741211 Concurrently, adjacent persons manage and manipulate objects, cultivating a palpable bond with their belongings.
+81.6624984741211 Concurrently, adjacent persons manage and manipulate objects, cultivating a palpable bond with their belongings.
+------------- iteration:15 ---------------
+83.11479187011719 Simultaneously, neighboring individuals handle and maneuver items, cultivating a tangible connection to their possessions.
+83.11479187011719 Simultaneously, neighboring individuals handle and maneuver items, cultivating a tangible connection to their possessions.
+83.11479187011719 Simultaneously, neighboring individuals handle and maneuver items, cultivating a tangible connection to their possessions.
+83.11479187011719 Simultaneously, neighboring individuals handle and maneuver items, cultivating a tangible connection to their possessions.
+83.11479187011719 Simultaneously, neighboring individuals handle and maneuver items, cultivating a tangible connection to their possessions.
+------------- iteration:16 ---------------
+85.18858337402344 Concurrently, adjacent persons manipulate and steer objects, cultivating a palpable bond with their belongings.
+85.18858337402344 Concurrently, adjacent persons manipulate and steer objects, cultivating a palpable bond with their belongings.
+85.18858337402344 Concurrently, adjacent persons manipulate and steer objects, cultivating a palpable bond with their belongings.
+85.18858337402344 Concurrently, adjacent persons manipulate and steer objects, cultivating a palpable bond with their belongings.
+85.18858337402344 Concurrently, adjacent persons manipulate and steer objects, cultivating a palpable bond with their belongings.
+------------- iteration:17 ---------------
+81.39354705810547 Simultaneously, neighboring individuals handle and guide items, cultivating a palpable bond with their belongings.
+81.39354705810547 Simultaneously, neighboring individuals handle and guide items, cultivating a palpable bond with their belongings.
+81.39354705810547 Simultaneously, neighboring individuals handle and guide items, cultivating a palpable bond with their belongings.
+88.27403259277344 Simultaneously, neighboring individuals engage and guide items, cultivating a palpable bond with their belongings.
+88.27403259277344 Simultaneously, neighboring individuals engage and guide items, cultivating a palpable bond with their belongings.
+------------- iteration:18 ---------------
+83.46864318847656 Concurrently, adjacent persons interact and maneuver objects, cultivating a palpable bond with their belongings.
+83.46864318847656 Concurrently, adjacent persons interact and maneuver objects, cultivating a palpable bond with their belongings.
+83.46864318847656 Concurrently, adjacent persons interact and maneuver objects, cultivating a palpable bond with their belongings.
+83.46864318847656 Concurrently, adjacent persons interact and maneuver objects, cultivating a palpable bond with their belongings.
+83.63319396972656 Concurrently, adjacent persons interact with and maneuver objects, cultivating a palpable bond with their belongings.
+------------- iteration:19 ---------------
+84.185791015625 Simultaneously, neighboring individuals engage and manipulate items, cultivating a palpable bond with their belongings.
+84.185791015625 Simultaneously, neighboring individuals engage and manipulate items, cultivating a palpable bond with their belongings.
+84.185791015625 Simultaneously, neighboring individuals engage and manipulate items, cultivating a palpable bond with their belongings.
+84.185791015625 Simultaneously, neighboring individuals engage and manipulate items, cultivating a palpable bond with their belongings.
+84.185791015625 Simultaneously, neighboring individuals engage and manipulate items, cultivating a palpable bond with their belongings.
+------------- iteration:20 ---------------
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+------------- iteration:21 ---------------
+83.07562255859375 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a tangible connection to their possessions.
+83.07562255859375 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a tangible connection to their possessions.
+83.07562255859375 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a tangible connection to their possessions.
+83.07562255859375 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a tangible connection to their possessions.
+83.07562255859375 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a tangible connection to their possessions.
+------------- iteration:22 ---------------
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+------------- iteration:23 ---------------
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+------------- iteration:24 ---------------
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+------------- iteration:25 ---------------
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+------------- iteration:26 ---------------
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+------------- iteration:27 ---------------
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+------------- iteration:28 ---------------
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+------------- iteration:29 ---------------
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+------------- iteration:30 ---------------
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+------------- iteration:31 ---------------
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+------------- iteration:32 ---------------
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+------------- iteration:33 ---------------
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+------------- iteration:34 ---------------
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+------------- iteration:35 ---------------
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+------------- iteration:36 ---------------
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+------------- iteration:37 ---------------
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+------------- iteration:38 ---------------
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+------------- iteration:39 ---------------
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+------------- iteration:40 ---------------
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+------------- iteration:41 ---------------
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+------------- iteration:42 ---------------
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+------------- iteration:43 ---------------
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+------------- iteration:44 ---------------
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+------------- iteration:45 ---------------
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+------------- iteration:46 ---------------
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+------------- iteration:47 ---------------
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+82.36317443847656 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a palpable bond with their belongings.
+------------- iteration:48 ---------------
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+------------- iteration:49 ---------------
+83.07562255859375 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a tangible connection to their possessions.
+83.07562255859375 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a tangible connection to their possessions.
+83.07562255859375 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a tangible connection to their possessions.
+83.07562255859375 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a tangible connection to their possessions.
+83.07562255859375 Simultaneously, neighboring individuals engage with and manipulate items, cultivating a tangible connection to their possessions.
+------------- iteration:50 ---------------
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.
+84.8665771484375 Concurrently, adjacent persons interact with and handle objects, cultivating a palpable bond with their belongings.

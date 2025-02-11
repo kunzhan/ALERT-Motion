@@ -1,0 +1,1 @@
+person moves i a clockwise direction in a circle by sprinting
