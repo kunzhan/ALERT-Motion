@@ -9,11 +9,61 @@ This repo contains the code of a PyTorch implementation of [Autonomous LLM-enhan
 	- [mld](https://github.com/ChenFengYe/motion-latent-diffusion)
 	- [TMR](https://github.com/Mathux/TMR)
 
+Among them, the TMR model [Mathux/TMR](https://github.com/Mathux/TMR) is an embedding model for computing similarity, responsible for calculating the similarity between motions during the attack process. MDM and MLD are the target models to be attacked, and their file structures are as follows:
+📦 mdm
+ ┣ 📂 assets
+ ┣ 📂 body_models
+ ┣ 📂 data_loaders
+ ┣ 📂 datasets
+ ┣ 📂 diffusion
+ ┣ 📂 eval
+ ┣ 📂 glove
+ ┣ 📂 kit
+ ┣ 📂 model
+ ┣ 📂 prepare
+ ┣ 📂 sample
+ ┣ 📂 save
+ ┣ 📂 t2m
+ ┣ 📂 train
+ ┣ 📂 utils
+ ┗ 📂 visualize
+
+📦 mld
+ ┣ 📂 checkpoints
+ ┣ 📂 configs
+ ┣ 📂 datasets
+ ┣ 📂 demo
+ ┣ 📂 deps
+ ┣ 📂 mld
+ ┣ 📂 prepare
+ ┣ 📂 results
+ ┗ 📂 scripts
+
+📦 TMR
+ ┣ 📂 configs
+ ┣ 📂 datasets
+ ┣ 📂 demo
+ ┣ 📂 logs
+ ┣ 📂 models
+ ┣ 📂 outputs
+ ┣ 📂 prepare
+ ┣ 📂 src
+ ┗ 📂 stats
+
 ## Installation
 
 ```bash
 pip install -r requirements.txt
 ```
+
+## Usage
+
+```bash
+cd attack
+bash run.sh # Run attack on mld model, all_count=20 is the number of examples to attack, usually 20, taking the first 20 examples from target_model\TMR\nsim_test.txt
+```
+
+
 
 # Citation
 

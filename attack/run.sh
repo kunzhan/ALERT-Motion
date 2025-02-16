@@ -10,7 +10,7 @@ parameters=()
 current_time=$(date +"%Y-%m-%d_%H-%M-%S")
 # current_time="2024-06-11_18-08-24"
 # 定义运行总数
-all_count=1
+all_count=20
 
 # 定义并行数量
 parallel_count=1
