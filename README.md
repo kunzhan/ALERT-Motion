@@ -10,6 +10,7 @@ This repo contains the code of a PyTorch implementation of [Autonomous LLM-enhan
 	- [TMR](https://github.com/Mathux/TMR)
 
 Among them, the TMR model [Mathux/TMR](https://github.com/Mathux/TMR) is an embedding model for computing similarity, responsible for calculating the similarity between motions during the attack process. MDM and MLD are the target models to be attacked, and their file structures are as follows:
+\\
 📦 mdm
  ┣ 📂 assets
  ┣ 📂 body_models
